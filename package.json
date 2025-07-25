@@ -1,0 +1,24 @@
+{
+  "name": "big-data-converter",
+  "version": "1.0.1",
+  "description": "This applicate take large csv file and convert into small xls file which can be open through excel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "convert-csv"
+  ],
+  "author": "Kunal Chandra Das",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0",
+    "fast-csv": "^5.0.2",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
