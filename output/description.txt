@@ -1,0 +1,1 @@
+This is the description file for output directory where the temporary data will be store. and after the work done, the file will be removed from this directory.

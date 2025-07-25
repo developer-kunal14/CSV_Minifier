@@ -1,6 +1,6 @@
 {
   "name": "big-data-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This applicate take large csv file and convert into small xls file which can be open through excel",
   "main": "index.js",
   "scripts": {
